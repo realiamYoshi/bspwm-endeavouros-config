@@ -34,11 +34,17 @@ Using EndeavourOS
 Installed Packages:
 
 7zip 26.01-1
+
 a52dec 0.8.0-3
+
 abseil-cpp 20260107.1-1
+
 accountsservice 26.13.3-1
+
 acl 2.3.2-2
+
 adwaita-cursors 50.0-1
+
 adwaita-fonts 50.0-1
 adwaita-icon-theme 50.0-1
 adwaita-icon-theme-legacy 46.2-3
